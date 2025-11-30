@@ -1,0 +1,6 @@
+terraform-project/
+│── main.tf
+│── variables.tf
+│── outputs.tf
+│── dev.tfvars
+│── prod.tfvars
